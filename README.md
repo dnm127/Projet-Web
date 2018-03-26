@@ -15,7 +15,7 @@ Outile de développement
 		.PHP 7.1 + Framework Symfony 3.1.15
 		.HTML, CSS, Javascript + Framework Boostrap, jQuery
 
-Instruction
+Instruction (Macbook)
 	> Lancer XAMPP 
         
 	> cd /Projet-Web 
@@ -26,5 +26,3 @@ Instruction
 
 Lors de la réussite des commandes ci-dessus
 	> Tapez "localhost:8000/" dans le navigateur de web 
-
-
